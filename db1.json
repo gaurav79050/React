@@ -1,0 +1,194 @@
+{
+  "Tasks": [
+    {
+      "name": "user 2 task 1 hjgrd dhjdghds huguhsdh jsbdfb",
+      "stage": 3,
+      "priority": "0",
+      "deadline": "",
+      "created_by": "user2",
+      "id": 2
+    },
+    {
+      "name": "test 2",
+      "stage": 3,
+      "priority": "0",
+      "deadline": "",
+      "created_by": "user2",
+      "id": 4
+    },
+    {
+      "name": "test 3",
+      "stage": 2,
+      "priority": "0",
+      "deadline": "",
+      "created_by": "user2",
+      "id": 5
+    },
+    {
+      "name": "test 4",
+      "stage": 1,
+      "priority": "0",
+      "deadline": "",
+      "created_by": "user2",
+      "id": 6
+    },
+    {
+      "name": "test new",
+      "stage": 0,
+      "priority": "0",
+      "deadline": "",
+      "created_by": "user2",
+      "id": 7
+    },
+    {
+      "name": "test",
+      "stage": 2,
+      "priority": "0",
+      "deadline": "",
+      "created_by": "test",
+      "id": 8
+    },
+    {
+      "name": "test2",
+      "stage": 0,
+      "priority": "0",
+      "deadline": "",
+      "created_by": "test",
+      "id": 9
+    },
+    {
+      "name": "test3",
+      "stage": 0,
+      "priority": "0",
+      "deadline": "",
+      "created_by": "test",
+      "id": 10
+    },
+    {
+      "name": "test4",
+      "stage": 3,
+      "priority": "0",
+      "deadline": "",
+      "created_by": "test",
+      "id": 11
+    },
+    {
+      "name": "Afternoon task 12",
+      "stage": 3,
+      "priority": "0",
+      "deadline": "",
+      "created_by": "Sagar",
+      "id": 12
+    },
+    {
+      "name": "Morning task 11",
+      "stage": 1,
+      "priority": "0",
+      "deadline": "",
+      "created_by": "Sagar",
+      "id": 13
+    },
+    {
+      "name": "Evening task",
+      "stage": 2,
+      "priority": "0",
+      "deadline": "",
+      "created_by": "Sagar",
+      "id": 14
+    },
+    {
+      "1": "",
+      "id": 16
+    },
+    {
+      "name": "test",
+      "stage": 3,
+      "priority": "0",
+      "deadline": "",
+      "created_by": "Archana",
+      "id": 18
+    },
+    {
+      "name": "test2",
+      "stage": 2,
+      "priority": "0",
+      "deadline": "",
+      "created_by": "Archana",
+      "id": 19
+    },
+    {
+      "name": "test 3",
+      "stage": 3,
+      "priority": "0",
+      "deadline": "",
+      "created_by": "Archana",
+      "id": 20
+    },
+    {
+      "name": "test 4",
+      "stage": 0,
+      "priority": "0",
+      "deadline": "",
+      "created_by": "Archana",
+      "id": 21
+    },
+    {
+      "name": "task 1",
+      "stage": 3,
+      "priority": "0",
+      "deadline": "",
+      "created_by": "gaurav kesharvani",
+      "id": 22
+    },
+    {
+      "name": "task 2",
+      "stage": 0,
+      "priority": "Medium",
+      "deadline": "",
+      "created_by": "gaurav kesharvani",
+      "id": 24
+    },
+    {
+      "name": "test",
+      "stage": 3,
+      "priority": "0",
+      "deadline": "2024-08-11",
+      "created_by": "user1",
+      "id": 25
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "user1",
+      "email": "satyam@gmail.com",
+      "contact": 7905065795,
+      "password": "password123",
+      "profile": ""
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "email": "satyam@gmai.com",
+      "contact": 8564028097,
+      "password": "securepass",
+      "profile": ""
+    },
+    {
+      "username": "Archana",
+      "email": "archu83@gmail.com",
+      "contact": "",
+      "password": "Satyam@123",
+      "image": "",
+      "id": 3
+    },
+    {
+      "username": "gaurav kesharvani",
+      "email": "gauravkesharvani91@gmail.com",
+      "contact": "",
+      "password": "Satyam@123",
+      "image": "Screenshot from 2023-12-19 18-27-41.png",
+      "id": 4
+    }
+  ]
+}
